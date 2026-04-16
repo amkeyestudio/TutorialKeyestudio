@@ -145,7 +145,7 @@ table.freenove-ow thead tr:nth-child(odd) {
 .zebra-theme-blue {
   --tr-odd-row-color: #e3f2fd;  
   --tr-even-row-color: #bbdefb;
-  --th-even-row-color: #0066ff;
+  --th-even-row-color: #ffffff;
   --text-color: #ffffff;
   border-color: #000000
 }
