@@ -267,7 +267,7 @@ document.addEventListener('DOMContentLoaded', function() {
                 <p style="margin-top: 5px; margin-bottom: 15px;">
                     This online document has just been launched and is currently being improved.<br>
                     If you find any mistake, please verify against the downloaded version. Your feedback is welcome.<br>
-                    <a href="https://freenove.com/support" target="_blank" rel="noopener noreferrer">Click to contact technical support.</a>
+                    <a href="https://adoc.keyestudio.com/en/latest/about-freenove/support.html" target="_blank" rel="noopener noreferrer">Click to contact technical support.</a>
                 </p>
                 <strong style="font-size: 20px;">How to translate:</strong>
                 <p style="margin-top: 5px; margin-bottom: 10px;">
@@ -386,8 +386,8 @@ function createPageContent() {
     // A data-driven approach to define buttons. Makes adding/removing buttons clean and easy.
     const controlsData = [
         { href: "https://docs.freenove.com/en/latest/about-freenove/language.html", target: "_blank", className: "language-btn", tooltip: "GitHub" },
-        { href: "https://freenove.com/support", target: "_blank", className: "support-btn", tooltip: "support" },
-        { href: "https://freenove.com/", target: "_blank", className: "website-btn", tooltip: "Freenove Official Website" },
+        { href: "https://adoc.keyestudio.com/en/latest/about-freenove/support.html", target: "_blank", className: "support-btn", tooltip: "support" },
+        { href: "https://keyestudio.com/", target: "_blank", className: "website-btn", tooltip: "Freenove Official Website" },
         { href: "https://www.youtube.com/@Freenove", target: "_blank", className: "youtube", icon: "fab fa-youtube", tooltip: "YouTube" },
     ];
 
