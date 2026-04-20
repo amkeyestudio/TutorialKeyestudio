@@ -11,7 +11,7 @@ About
             :width: 30%
             :align: center
 
-        Freenove provides products and services for makers, STEM education and open source electronics.
+        Keyestudio provides products and services for makers, STEM education and open source electronics.
 
         Our customers are all over the world, mainly including individual consumers, schools, educational institutions, research institutions and companies.
 
