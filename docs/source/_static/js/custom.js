@@ -92,49 +92,43 @@ let navBarHtml =
         <!-- <li class="navLogo"><a href="/index.html"></a></li> -->
         <li>
             <div class="navDropDown">
-                <a href="https://docs.freenove.com/en/latest/"  target="_blank" class="dropBtn">Home</a>
-            </div>
-        </li>
-        <li>
-            <div class="navDropDown has-dropdown">
-                <a href="#" class="dropBtn">Store</a>
-                <div class="dropDownContent">
-                    <a href="https://store.freenove.com/" target="_blank">Official </a>
-                    <a href="https://freenove.com/store" target="_blank">Amazon </a>
-                    <a href="https://freenove.com/store" target="_blank">eBay </a>
-                    <a href="https://freenove.aliexpress.com/store" target="_blank">AliExpress </a>
-                </div>
+                <a href="https://adoc.keyestudio.com/en/latest/"  target="_blank" class="dropBtn">Home</a>
             </div>
         </li>
         <li>
             <div class="navDropDown">
-                <a href="https://docs.freenove.com/en/latest/about-freenove/tutorial.html#" target="_blank" class="dropBtn">Tutorial</a>
+                <a href="https://www.keyestudio.com/"  target="_blank" class="dropBtn">Store</a>
             </div>
         </li>
         <li>
             <div class="navDropDown">
-                <a href="https://docs.freenove.com/en/latest/about-freenove/support.html#" target="_blank" class="dropBtn">Support</a>
+                <a href="https://adoc.keyestudio.com/en/latest/about-freenove/tutorial.html" target="_blank" class="dropBtn">Tutorial</a>
             </div>
         </li>
         <li>
             <div class="navDropDown">
-                <a href="https://docs.freenove.com/en/latest/about-freenove/app.html#" target="_blank" class="dropBtn">App</a>
+                <a href="https://adoc.keyestudio.com/en/latest/about-freenove/support.html" target="_blank" class="dropBtn">Support</a>
             </div>
         </li>
         <li>
             <div class="navDropDown">
-                <a href="https://docs.freenove.com/en/latest/about-freenove/contact.html#" target="_blank" class="dropBtn">Contact</a>
+                <a href="https://adoc.keyestudio.com/en/latest/about-freenove/app.html" target="_blank" class="dropBtn">App</a>
             </div>
         </li>
         <li>
             <div class="navDropDown">
-                <a href="https://docs.freenove.com/en/latest/about-freenove/about.html#" target="_blank" class="dropBtn">About</a>
+                <a href="https://adoc.keyestudio.com/en/latest/about-freenove/contact.html" target="_blank" class="dropBtn">Contact</a>
+            </div>
+        </li>
+        <li>
+            <div class="navDropDown">
+                <a href="https://adoc.keyestudio.com/en/latest/about-freenove/about.html" target="_blank" class="dropBtn">About</a>
             </div>
         </li>
         
             <!-- <li id="txt">
                 <div class="navDropDown">
-                    <a href="https://freenove.com/" class="dropBtn">Welcome</a>
+                    <a href="https://keyestudio.com/" class="dropBtn">Welcome</a>
                 </div>
             </li> -->
        
@@ -144,7 +138,7 @@ let navBarHtml =
 
 // Footer HTML
 let footerHtml = `
-<div style="border-top: 1px solid #ccc; ">
+<div style="border-top: 1px solid #fac104; ">
     <br/>
     <div id="copy_right" style="float: left;">
         © CopyRight 2016 - 2025

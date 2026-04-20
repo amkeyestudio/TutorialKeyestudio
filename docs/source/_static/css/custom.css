@@ -101,8 +101,8 @@ table.freenove-ow tbody tr:nth-child(odd) {
 
 /* Table header settings */
 table.freenove-ow thead tr:nth-child(odd) {
-  background-color: #ff7b00;          /* Table header background color */
-  color: #ffffff;                     /* Table header font color */
+  background-color: #000000;          /* Table header background color */
+  color: #ff7b00;                     /* Table header font color */
   font-weight: bolder;
   font-family: "DengXian";              /* Set font to DengXian */
   font-size: 20px;
@@ -171,7 +171,7 @@ table.freenove-ow thead tr:nth-child(odd) {
 
 /* Heading 1 */
 h1 {
-    color: #ff7b00;
+    color: #000000;
     font-size: 35px;
     font-family: "DengXian";
     font-weight: normal;
@@ -180,10 +180,10 @@ h1 {
 
 /* Heading 2 */
 h2 {
-    background-color: #ff7b00;
+    background-color: #000000;
     font-size: 30px;
     font-family: "DengXian";
-    color: white;
+    color:  #ff7b00;
     width: 100%;
     height: 40px;
     padding: 3px 2px;
@@ -194,7 +194,7 @@ h2 {
 
 /* Heading 3 */
 h3 {
-    color: #ff7b00;
+    color: #000000;
     font-size: 30px;
     font-family: "DengXian";
     font-weight: normal;
@@ -204,7 +204,7 @@ h3 {
 
 /* Heading 4 */
 h4 {
-    color: #ff7b00;
+    color: #000000;
     font-size: 20px;
     font-family: "DengXian";
     font-weight: normal;
@@ -230,7 +230,7 @@ h4 {
 
 /* Set title style and icon */
 [class^="admonition-"] .admonition-title {
-    background-color: #ff7b00 !important;   /* !important keyword forces override */
+    background-color: #000000 !important;   /* !important keyword forces override */
     background-image: url('../images/freenove_admonition.png');
     background-repeat: no-repeat;
     background-position: left 5px center;
