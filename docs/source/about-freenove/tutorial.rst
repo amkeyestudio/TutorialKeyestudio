@@ -10,11 +10,11 @@ It looks like the following:
     :align: center
 
 Then find the matching product SKU from the list below and click Download.
-You can also ask from us via email:**support@freenove.com**
+You can also ask from us via email:**service@keyestudio.com**
 
 .. container:: 
             
-    **Need help? Contact** support@freenove.com
+    **Need help? Contact** service@keyestudio.com
 
 .. list-table:: 
     :align: center

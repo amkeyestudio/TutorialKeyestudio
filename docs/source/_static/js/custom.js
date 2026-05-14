@@ -144,20 +144,20 @@ let footerHtml = `
         © CopyRight 2016 - 2025
     </div>
     <div style="float: right;">
-        Need help? Contact <a href="mailto:support@freenove.com">support@freenove.com</a> 
+        Need help? Contact <a href="mailto:service@keyestudio.com">service@keyestudio.com</a> 
     </div>
     <br/>
 </div>`;
 
 // Page header HTML
 let pageHeaderHtml=`
-Need help? Contact <a href="mailto:support@freenove.com">support@freenove.com</a>
+Need help? Contact <a href="mailto:service@keyestudio.com">service@keyestudio.com</a>
 `;
 
 window.onload = function () {    
     let footer_content = document.getElementById('footer_content');
     footer_content.innerHTML = footerHtml;
-    $("#copy_right").text("© Copyright 2016 - " + new Date().getFullYear() + ", Freenove")
+    $("#copy_right").text("© Copyright 2016 - " + new Date().getFullYear() + ", Keyestudio")
 
     let pageHeaderContent = document.getElementById('pageHeaderContent');
     pageHeaderContent.innerHTML = pageHeaderHtml;

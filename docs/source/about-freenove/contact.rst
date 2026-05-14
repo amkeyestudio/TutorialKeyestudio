@@ -12,6 +12,6 @@ Contact
 
         :large:`whether you want to buy in bulk, customize, or distribute.`
 
-        sale@freenove.com
+        service@keyestudio.com
 
         :large:`In general, we will reply to you within one working day.`

@@ -11,7 +11,7 @@ Support
         | :large:`Please feel free to send us an email if you have any concerns,`
         | :large:`whether they are questions before buying or problems in use.`
 
-        | support@freenove.com
+        | service@keyestudio.com
 
         | :large:`In general, we will reply to you within one working day.`
 
@@ -21,12 +21,12 @@ Support
                 
     .. admonition:: :x-large:`Get Tutorial`
         
-        | :large:`Download digital materials for Freenove products.`
+        | :large:`Download digital materials for Keyestudio products.`
 
         | :ref:`Tutorial list page <about-freenove/tutorial:tutorial>`
         
         | :large:`Please feel free to contact us if you need any help.`
 
-        | support@freenove.com
+        | service@keyestudio.com
 
         | :large:`In general, we will reply to you within one working day.`

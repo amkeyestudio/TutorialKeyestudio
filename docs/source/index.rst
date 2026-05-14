@@ -1,13 +1,13 @@
 ################################################################
-Freenove Documentation
+Keyestudio Documentation
 ################################################################
 
-This is the product documentation for Freenove.
+This is the product documentation for Keyestudio.
 
 Welcome 
 ***********
 
-Thank you for choosing Freenove products!
+Thank you for choosing Keyestudio products!
 
 Get Product Tutorial
 ****************************************************************
@@ -23,7 +23,7 @@ Click on the link below to obtain your product tutorial.
    * :red:`Technical support`
    * :red:`Any other questions / supports`
 
-   | Please contact us via: support@freenove.com
+   | Please contact us via: service@keyestudio.com
    | We are responsible for our products.
 
 .. toctree::
