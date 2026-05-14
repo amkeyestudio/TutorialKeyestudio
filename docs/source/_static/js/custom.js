@@ -275,7 +275,7 @@ document.addEventListener('DOMContentLoaded', function() {
                     Please note that sometimes the translation may not be accurate.<br>
                     Should you find it not understantable,  please refer to the original text or contact our support.<br>
                     You can find the translation button near the address bar or by right-clicking the mouse.<br>
-                    <a href="https://docs.freenove.com/en/latest/about-freenove/language.html" target="_blank" rel="noopener noreferrer">Click to view the detailed tutorial.</a>
+                    <a href="https://adoc.keyestudio.com/en/latest/about-freenove/support.html" target="_blank" rel="noopener noreferrer">Click to view the detailed tutorial.</a>
                 </p>
             </div>
             <div class="fnk-key-hint">
@@ -385,10 +385,10 @@ function createPageContent() {
 
     // A data-driven approach to define buttons. Makes adding/removing buttons clean and easy.
     const controlsData = [
-        { href: "https://docs.freenove.com/en/latest/about-freenove/language.html", target: "_blank", className: "language-btn", tooltip: "GitHub" },
+        { href: "https://adoc.keyestudio.com", target: "_blank", className: "language-btn", tooltip: "GitHub" },
         { href: "https://adoc.keyestudio.com/en/latest/about-freenove/support.html", target: "_blank", className: "support-btn", tooltip: "support" },
         { href: "https://keyestudio.com/", target: "_blank", className: "website-btn", tooltip: "Freenove Official Website" },
-        { href: "https://www.youtube.com/@Freenove", target: "_blank", className: "youtube", icon: "fab fa-youtube", tooltip: "YouTube" },
+        { href: "https://www.baidu.com/", target: "_blank", className: "youtube", icon: "fab fa-youtube", tooltip: "YouTube" },
     ];
 
     // Loop through the data to build each button.

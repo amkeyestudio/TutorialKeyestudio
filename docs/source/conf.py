@@ -66,6 +66,7 @@ html_theme_options = {
     'prev_next_buttons_location': 'both',
     'style_external_links': True,
     'language_selector': True,
+    'home_url': 'https://adoc.keyestudio.com',
     # 'titles_only': True,
     # 'style_nav_header_background': '#E3E3E3',
 
@@ -99,26 +100,27 @@ print(rst_prolog)
 del frozen_locals
 
 html_css_files = [
-    # "css/color-roles.css",
-    # "css/custom.css",
-    # "css/navigationStyle.css",
-    # "css/basicLightbox.min.css",
-    'https://cdn.jsdelivr.net/gh/Freenove/freenove-docs@latest/docs/source/_static/css/color-roles.css',
-    'https://cdn.jsdelivr.net/gh/Freenove/freenove-docs@latest/docs/source/_static/css/custom.css',
-    'https://cdn.jsdelivr.net/gh/Freenove/freenove-docs@latest/docs/source/_static/css/navigationStyle.css',
-    'https://cdn.jsdelivr.net/gh/Freenove/freenove-docs@latest/docs/source/_static/css/basicLightbox.min.css',
+    "css/color-roles.css",
+    "css/custom.css",
+    "css/navigationStyle.css",
+    "css/basicLightbox.min.css",
+    #'https://cdn.jsdelivr.net/gh/Freenove/freenove-docs@latest/docs/source/_static/css/color-roles.css',
+    #'https://cdn.jsdelivr.net/gh/Freenove/freenove-docs@latest/docs/source/_static/css/custom.css',
+    #'https://cdn.jsdelivr.net/gh/Freenove/freenove-docs@latest/docs/source/_static/css/navigationStyle.css',
+    #'https://cdn.jsdelivr.net/gh/Freenove/freenove-docs@latest/docs/source/_static/css/basicLightbox.min.css',
 ]
 
 html_js_files = [
-    'https://cdn.jsdelivr.net/gh/Freenove/freenove-docs@latest/docs/source/_static/js/basicLightbox.min.js',
-    'https://cdn.jsdelivr.net/gh/Freenove/freenove-docs@latest/docs/source/_static/js/custom.js',
-    # 'js/basicLightbox.min.js',
-    # 'js/custom.js'
+    #'https://cdn.jsdelivr.net/gh/Freenove/freenove-docs@latest/docs/source/_static/js/basicLightbox.min.js',
+    #'https://cdn.jsdelivr.net/gh/Freenove/freenove-docs@latest/docs/source/_static/js/custom.js',
+    'js/basicLightbox.min.js',
+    'js/custom.js'
 ]
 
 extlinks = {
     "Freenove": (
-        "https://docs.freenove.com/projects/%s/en/latest/", None
+        #"https://docs.freenove.com/projects/%s/en/latest/", None
+        "https://adoc.keyestudio.com/projects/%s/en/latest/", None
     )
 }
 

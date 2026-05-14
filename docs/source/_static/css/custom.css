@@ -101,7 +101,7 @@ table.freenove-ow tbody tr:nth-child(odd) {
 
 /* Table header settings */
 table.freenove-ow thead tr:nth-child(odd) {
-  background-color: #000000;          /* Table header background color */
+  background-color: #4a4a4a;          /* Table header background color */
   color: #ff7b00;                     /* Table header font color */
   font-weight: bolder;
   font-family: "DengXian";              /* Set font to DengXian */
@@ -180,10 +180,10 @@ h1 {
 
 /* Heading 2 */
 h2 {
-    background-color: #000000;
+    background-color: #343331;
     font-size: 30px;
     font-family: "DengXian";
-    color:  #ff7b00;
+    color:  #ffc400;
     width: 100%;
     height: 40px;
     padding: 3px 2px;
@@ -230,7 +230,8 @@ h4 {
 
 /* Set title style and icon */
 [class^="admonition-"] .admonition-title {
-    background-color: #000000 !important;   /* !important keyword forces override */
+    background-color: #343331 !important;   /* !important keyword forces override */
+    color: #ffc400 !important;
     background-image: url('../images/freenove_admonition.png');
     background-repeat: no-repeat;
     background-position: left 5px center;
@@ -763,8 +764,8 @@ table.docutils.product-table {
 
 /* Header style */
 table.docutils.product-table thead th {
-    background-color: #ff7b00; /* Use more vibrant brand colors */
-    color: #ffffff; /* Change the header text color to white */
+    background-color: #343331; /* Use more vibrant brand colors */
+    color: #ffc400; /* Change the header text color to white */
     font-weight: 600; /* Bold the font */
     padding: 18px 12px; /* Increase padding */
     text-align: center;
