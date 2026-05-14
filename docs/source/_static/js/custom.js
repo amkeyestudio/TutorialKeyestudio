@@ -259,7 +259,7 @@ document.addEventListener('DOMContentLoaded', function() {
         <div class="minimized-icon" style="cursor: pointer;"><i class="fas fa-exclamation"></i></div>
         <div class="fnk-widget">
             <div class="fnk-header">
-                <img src="https://cdn.jsdelivr.net/gh/Freenove/freenove-docs/docs/source/_static/images/freenove_logo_tag_icon.png" class="fnk-logo">
+                <img src="_static/images/freenove_logo_tag_icon.png" class="fnk-logo">
                 <div class="fnk-title">Announcement</div>
             </div>
             <div class="fnk-announcement-content" style="padding: 0 15px 5px; font-size: 13px; line-height: 1.6;">

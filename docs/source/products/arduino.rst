@@ -18,7 +18,7 @@ Starter kits
 
    * - .. centered:: /
      - .. centered:: /
-     - 开发中尽情期待...
+     - 开发中，敬请期待...
      - .. centered:: /
 
 ..    * -  .. centered:: |FNK0017.MAIN|
@@ -47,7 +47,7 @@ Robotics kits
 
    * - .. centered:: /
      - .. centered:: /
-     - 开发中尽情期待...
+     - 开发中，敬请期待...
      - .. centered:: /
 
 
@@ -76,7 +76,7 @@ Boards
 
    * - .. centered:: /
      - .. centered:: /
-     - 开发中尽情期待...
+     - 开发中，敬请期待...
      - .. centered:: /
 
 
