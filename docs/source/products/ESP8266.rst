@@ -17,14 +17,19 @@ Starter kits
      -  Name
      -  Purchase
 
-   * -  .. centered:: |FNK0073|
-     -  .. centered:: :Freenove:`FNK0073 <fnk0073>`
-     -  **Freenove Ultimate Starter Kit for ESP8266**
-     -  |Purchase73|
+   * - .. centered:: /
+     - .. centered:: /
+     - 开发中，敬请期待...
+     - .. centered:: /
+
+..    * -  .. centered:: |FNK0073|
+..      -  .. centered:: :Freenove:`FNK0073 <fnk0073>`
+..      -  **Freenove Ultimate Starter Kit for ESP8266**
+..      -  |Purchase73|
 
 
-.. |FNK0073| image:: ../_static/products/ESP8266/FNK0073.png  
-    :class: product-image
+.. .. |FNK0073| image:: ../_static/products/ESP8266/FNK0073.png  
+..     :class: product-image
 
 
 Boards
@@ -42,22 +47,27 @@ Boards
      -  Name
      -  Purchase
 
-   * -  .. centered:: |FNK0076A|
-     -  .. centered:: :Freenove:`FNK0076 <fnk0076>`
-     -  **Freenove ESP8266 Board**
-     -  |Purchase76|
+   * - .. centered:: /
+     - .. centered:: /
+     - 开发中，敬请期待...
+     - .. centered:: /
+      
+..    * -  .. centered:: |FNK0076A|
+..      -  .. centered:: :Freenove:`FNK0076 <fnk0076>`
+..      -  **Freenove ESP8266 Board**
+..      -  |Purchase76|
 
-.. |FNK0076A| image:: ../_static/products/ESP8266/FNK0076A.png
-    :class: product-image
+.. .. |FNK0076A| image:: ../_static/products/ESP8266/FNK0076A.png
+..     :class: product-image
 
-.. |Purchase73| image:: ../_static/images/cart.png
-   :class: purchase-icon
-   :width: 30px
-   :target: https://store.freenove.com/products/fnk0073
-   :alt: Purchase
+.. .. |Purchase73| image:: ../_static/images/cart.png
+..    :class: purchase-icon
+..    :width: 30px
+..    :target: https://store.freenove.com/products/fnk0073
+..    :alt: Purchase
 
-.. |Purchase76| image:: ../_static/images/cart.png
-   :class: purchase-icon
-   :width: 30px
-   :target: https://store.freenove.com/products/fnk0076
-   :alt: Purchase
+.. .. |Purchase76| image:: ../_static/images/cart.png
+..    :class: purchase-icon
+..    :width: 30px
+..    :target: https://store.freenove.com/products/fnk0076
+..    :alt: Purchase

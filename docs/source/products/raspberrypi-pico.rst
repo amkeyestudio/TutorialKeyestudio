@@ -15,13 +15,18 @@ Starter kits
      -  Name
      -  Purchase
 
-   * -  .. centered:: |FNK0058E|
-     -  .. centered:: :Freenove:`FNK0058 <fnk0058>`
-     -  **Freenove Ultimate Starter Kit for Raspberry Pi Pico**
-     -  |Purchase58|
+   * - .. centered:: /
+     - .. centered:: /
+     - 开发中，敬请期待...
+     - .. centered:: /
 
-.. |FNK0058E| image:: ../_static/products/RaspberryPi-Pico/FNK0058E.png  
-    :class: product-image
+..    * -  .. centered:: |FNK0058E|
+..      -  .. centered:: :Freenove:`FNK0058 <fnk0058>`
+..      -  **Freenove Ultimate Starter Kit for Raspberry Pi Pico**
+..      -  |Purchase58|
+
+.. .. |FNK0058E| image:: ../_static/products/RaspberryPi-Pico/FNK0058E.png  
+..     :class: product-image
 
 
 Robotics kits
@@ -39,15 +44,19 @@ Robotics kits
      -  Name
      -  Purchase
 
-   * -  .. centered:: |FNK0033C|
-     -  .. centered:: :Freenove:`FNK0033 <fnk0033>`
-     -  **Freenove Bipedal Robot Kit for Raspberry Pi Pico (W)**
-     -  |Purchase33|
+   * - .. centered:: /
+     - .. centered:: /
+     - 开发中，敬请期待...
+     - .. centered:: /
+
+..    * -  .. centered:: |FNK0033C|
+..      -  .. centered:: :Freenove:`FNK0033 <fnk0033>`
+..      -  **Freenove Bipedal Robot Kit for Raspberry Pi Pico (W)**
+..      -  |Purchase33|
 
 
-.. |FNK0033C| image:: ../_static/products/RaspberryPi-Pico/FNK0033C.png 
-    :class: product-image
-
+.. .. |FNK0033C| image:: ../_static/products/RaspberryPi-Pico/FNK0033C.png 
+..     :class: product-image
 
 Boards
 ----------------------------------------------------------------
@@ -64,13 +73,18 @@ Boards
      -  Name
      -  Purchase
 
-   * -  .. centered:: |FNK0065E|
-     -  .. centered:: :Freenove:`FNK0065 <fnk0065>`
-     -  **Freenove Raspberry Pi Pico Board**
-     -  |Purchase65|
+   * - .. centered:: /
+     - .. centered:: /
+     - 开发中，敬请期待...
+     - .. centered:: /
 
-.. |FNK0065E| image:: ../_static/products/RaspberryPi-Pico/FNK0065E.png
-    :class: product-image
+..    * -  .. centered:: |FNK0065E|
+..      -  .. centered:: :Freenove:`FNK0065 <fnk0065>`
+..      -  **Freenove Raspberry Pi Pico Board**
+..      -  |Purchase65|
+
+.. .. |FNK0065E| image:: ../_static/products/RaspberryPi-Pico/FNK0065E.png
+..     :class: product-image
 
 Accessories
 ----------------------------------------------------------------
@@ -87,29 +101,39 @@ Accessories
      -  Name
      -  Purchase
 
-   * -  .. centered:: |FNK0081|
-     -  .. centered:: :Freenove:`FNK0081 <fnk0081>`
-     -  **Freenove Breakout Board for Raspberry Pi Pico**
-     -  |Purchase81|
+   * - .. centered:: /
+     - .. centered:: /
+     - 开发中，敬请期待...
+     - .. centered:: /
 
-.. |FNK0081| image:: ../_static/products/RaspberryPi-Pico/FNK0081.png
-    :class: product-image
+..    * -  .. centered:: |FNK0081|
+..      -  .. centered:: :Freenove:`FNK0081 <fnk0081>`
+..      -  **Freenove Breakout Board for Raspberry Pi Pico**
+..      -  |Purchase81|
 
-.. |Purchase58| image:: ../_static/images/cart.png
-   :class: purchase-icon
-   :width: 30px
-   :target: https://store.freenove.com/products/fnk0058
-   :alt: Purchase  
+.. .. |FNK0081| image:: ../_static/products/RaspberryPi-Pico/FNK0081.png
+..     :class: product-image
 
+.. .. |Purchase58| image:: ../_static/images/cart.png
+..    :class: purchase-icon
+..    :width: 30px
+..    :target: https://store.freenove.com/products/fnk0058
+..    :alt: Purchase  
 
-.. |Purchase65| image:: ../_static/images/cart.png
-   :class: purchase-icon
-   :width: 30px
-   :target: https://store.freenove.com/products/fnk0065
-   :alt: Purchase
+.. .. |Purchase33| image:: ../_static/images/cart.png
+..    :class: purchase-icon
+..    :width: 30px
+..    :target: https://store.freenove.com/products/fnk0033
+..    :alt: Purchase
+
+.. .. |Purchase65| image:: ../_static/images/cart.png
+..    :class: purchase-icon
+..    :width: 30px
+..    :target: https://store.freenove.com/products/fnk0065
+..    :alt: Purchase
    
-.. |Purchase81| image:: ../_static/images/cart.png
-   :class: purchase-icon
-   :width: 30px
-   :target: https://store.freenove.com/products/fnk0081
-   :alt: Purchase
+.. .. |Purchase81| image:: ../_static/images/cart.png
+..    :class: purchase-icon
+..    :width: 30px
+..    :target: https://store.freenove.com/products/fnk0081
+..    :alt: Purchase

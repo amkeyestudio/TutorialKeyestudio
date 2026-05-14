@@ -39,13 +39,18 @@ Robotics kits
      -  Name
      -  Purchase
 
-   * -  .. centered:: |FNK0037A|
-     -  .. centered:: :Freenove:`FNK0037 <fnk0037>`
-     -  **Freenove Micro:Rover**
-     -  |Purchase37|
+   * - .. centered:: /
+     - .. centered:: /
+     - 开发中，敬请期待...
+     - .. centered:: /
 
-.. |FNK0037A| image:: ../_static/products/micro_bit/FNK0037A.png
-    :class: product-image
+..    * -  .. centered:: |FNK0037A|
+..      -  .. centered:: :Freenove:`FNK0037 <fnk0037>`
+..      -  **Freenove Micro:Rover**
+..      -  |Purchase37|
+
+.. .. |FNK0037A| image:: ../_static/products/micro_bit/FNK0037A.png
+..     :class: product-image
 
 Boards
 ---------------------------------------------------------------
@@ -62,26 +67,29 @@ Boards
      -  Name
      -  Purchase
 
-   * -  .. centered:: |FNK0070|
-     -  .. centered:: :Freenove:`FNK0070 <fnk0070>`
-     -  **Freenove BBC micro:bit Board**
-     -  |Purchase70|
+   * - .. centered:: /
+     - .. centered:: /
+     - 开发中，敬请期待...
+     - .. centered:: /
+      
+..    * -  .. centered:: |FNK0070|
+..      -  .. centered:: :Freenove:`FNK0070 <fnk0070>`
+..      -  **Freenove BBC micro:bit Board**
+..      -  |Purchase70|
 
-.. |FNK0070| image:: ../_static/products/micro_bit/FNK0070.png
-    :class: product-image
+.. .. |FNK0070| image:: ../_static/products/micro_bit/FNK0070.png
+..     :class: product-image
 
-
-.. |Purchase37| image:: ../_static/images/cart.png
-   :class: purchase-icon
-   :width: 30px
-   :target: https://store.freenove.com/products/fnk0037
-   :alt: Purchase
-   
-.. |Purchase70| image:: ../_static/images/cart.png
-   :class: purchase-icon
-   :width: 30px
-   :target: https://store.freenove.com/products/fnk0070
-   :alt: Purchase
+.. .. |Purchase37| image:: ../_static/images/cart.png
+..    :class: purchase-icon
+..    :width: 30px
+..    :target: https://store.freenove.com/products/fnk0037
+..    :alt: Purchase
+.. .. |Purchase70| image:: ../_static/images/cart.png
+..    :class: purchase-icon
+..    :width: 30px
+..    :target: https://store.freenove.com/products/fnk0070
+..    :alt: Purchase
 
 .. |PurchaseMB0110| image:: ../_static/images/cart.png
    :class: purchase-icon
