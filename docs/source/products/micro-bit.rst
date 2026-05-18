@@ -39,10 +39,20 @@ Robotics kits
      -  Name
      -  Purchase
 
+   * - .. centered:: |KS4034F|
+     -  .. centered:: `KS4034F <https://adoc.keyestudio.com/projects/KS4034F/en/latest/>`_
+     -  **Keyestudio micro bit 4WD Mecanum Robot Car Kit V2.0**
+     -  |PurchaseKS4034F|
+
+
    * - .. centered:: /
      - .. centered:: /
      - 开发中，敬请期待...
      - .. centered:: /
+
+.. |KS4034F| image:: ../_static/products/micro_bit/KS4034F.png
+    :class: product-image
+
 
 ..    * -  .. centered:: |FNK0037A|
 ..      -  .. centered:: :Freenove:`FNK0037 <fnk0037>`
@@ -94,5 +104,11 @@ Boards
 .. |PurchaseMB0110| image:: ../_static/images/cart.png
    :class: purchase-icon
    :width: 30px
-   :target: https://www.amazon.sg/KEYESTUDIO-Starter-Arduino-Electronics-Automation/dp/B08CZ778DJ/ref=sr_1_9?dib=eyJ2IjoiMSJ9.vgFEthmvUci3ETDUwhHB0gCYl2ZRl5HVeY428QQjI4KvsU8ttPoEVKVJLbdUGA1707QalSsA_bA4alpJrHifApcDvpZAKfLXpXQuhgc3jGKXqjNN2P1vkVsL3XfseniJJLeshBNMNkzV6hwn24WIB2STr_0mOxj_9LfFm8nhf_9kxm4WbNz9RJ42CCDUpVQfFIiV0k48NDwsyBRCK-v2WO3hI7eI44lA-_nuutRUp8VFSh_ucCPk3UAzDCmJ4N_gmRDdtCU1L9EBsBXjGNuCDJCb6LNnLakEBmTQApc4AC0.pzEscsJ_2OnfDGJRNeRpAECXzwvYeI3f7_wlx30OjUw&dib_tag=se&keywords=keyestudio&qid=1776653925&sr=8-9
+   :target: https://www.amazon.co.jp/-/en/KEYESTUDIO-MICROBIT-V2-2-KIT-BEGINNERS/dp/B0BNKTGGB7/ref=sr_1_5?crid=L0TZN0WNIJXR&dib=eyJ2IjoiMSJ9.t6-UMOZbnkD5W8zg5oO6uSB0kymhrv5rF6fjlltbkPDY1qdVUyqpZNv9hKO13W013VDdc3bADBlcIaXDE0Haf1EqFOpNkB9fboiCaDsT6MFok8rE9yygyQ_-uIHeWlorv3gl9uuq-LEhgXKyv-3ZOoDE4GHxvBoXFN6n9jyMQQhnlnwoUdLki9ZVvEpGdp_AanSbumL2djyNSSIDT5tsCS0reuoW5XtgXlrxYw7SaHUpnXA62j8WYVGBYo5b0DhX2VYZFq4A87KK53Jwu1pBqFsjXYSMNbKZaG_RJpmJ0zo.VpOwRyau1h57Rj1nMbA64RvotQ72RwlNSmm9tyS81ro&dib_tag=se&keywords=keyestudio&qid=1778896881&sprefix=keyestu%27di%27o%2Caps%2C262&sr=8-5
+   :alt: Purchase
+
+.. |PurchaseKS4034F| image:: ../_static/images/cart.png
+   :class: purchase-icon
+   :width: 30px
+   :target: https://www.amazon.co.jp/-/en/KEYESTUDIO-Micro-Robot-Mekanam-Adults/dp/B0D4QGB9NW/ref=sr_1_25?crid=L0TZN0WNIJXR&dib=eyJ2IjoiMSJ9.t6-UMOZbnkD5W8zg5oO6uSB0kymhrv5rF6fjlltbkPDY1qdVUyqpZNv9hKO13W013VDdc3bADBlcIaXDE0Haf1EqFOpNkB9fboiCaDsT6MFok8rE9yygyQ_-uIHeWlorv3gl9uuq-LEhgXKyv-3ZOoDE4GHxvBoXFN6n9jyMQQhnlnwoUdLki9ZVvEpGdp_AanSbumL2djyNSSIDT5tsCS0reuoW5XtgXlrxYw7SaHUpnXA62j8WYVGBYo5b0DhX2VYZFq4A87KK53Jwu1pBqFsjXYSMNbKZaG_RJpmJ0zo.VpOwRyau1h57Rj1nMbA64RvotQ72RwlNSmm9tyS81ro&dib_tag=se&keywords=keyestudio&qid=1778896881&sprefix=keyestu%27di%27o%2Caps%2C262&sr=8-25
    :alt: Purchase

@@ -25,20 +25,15 @@ You can also ask from us via email:**service@keyestudio.com**
       - .. centered:: Download ZIP
       - .. centered:: Online
 
-    * - .. centered:: /
-      - 开发中，敬请期待...
-      - .. centered:: /
-      - .. centered:: /
-      - .. centered:: /
-
     * - .. centered:: MB0110
       - **Micro:bit Main Board+USB Cable+Battery Holder with Batteries**
       - .. centered:: `View <https://docs.keyestudio.com/projects/MB0110/en/latest/>`__	
       - .. centered:: `Download <https://docs.keyestudio.com/projects/MB0110/en/latest/>`__
-      - .. centered:: :Freenove:`Online <mb0110>`
+      - .. centered:: `Online <https://docs.keyestudio.com/projects/MB0110/en/latest/>`__
 
-    * - .. centered:: 编号
-      - **名称**
-      - .. centered:: github 链接	
-      - .. centered:: 下载链接
-      - .. centered:: 在线链接
+    * - .. centered:: KS4034F
+      - **Keyestudio micro bit 4WD Mecanum Robot Car Kit V2.0**
+      - .. centered:: `View <https://adoc.keyestudio.com/projects/KS4034F/en/latest/>`__	
+      - .. centered:: `Download <https://adoc.keyestudio.com/projects/KS4034F/en/latest/>`__
+      - .. centered:: `Online <https://adoc.keyestudio.com/projects/KS4034F/en/latest/>`__
+
