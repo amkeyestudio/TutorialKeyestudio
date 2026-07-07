@@ -17,7 +17,7 @@ Starter kits
 
    * - .. centered:: /
      - .. centered:: /
-     - 开发中，敬请期待...
+     - Under development. Stay tuned...
      - .. centered:: /
 
 ..    * -  .. centered:: |FNK0058E|
@@ -46,7 +46,7 @@ Robotics kits
 
    * - .. centered:: /
      - .. centered:: /
-     - 开发中，敬请期待...
+     - Under development. Stay tuned...
      - .. centered:: /
 
 ..    * -  .. centered:: |FNK0033C|
@@ -75,7 +75,7 @@ Boards
 
    * - .. centered:: /
      - .. centered:: /
-     - 开发中，敬请期待...
+     - Under development. Stay tuned...
      - .. centered:: /
 
 ..    * -  .. centered:: |FNK0065E|
@@ -103,7 +103,7 @@ Accessories
 
    * - .. centered:: /
      - .. centered:: /
-     - 开发中，敬请期待...
+     - Under development. Stay tuned...
      - .. centered:: /
 
 ..    * -  .. centered:: |FNK0081|

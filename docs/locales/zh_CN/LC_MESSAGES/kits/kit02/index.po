@@ -1,13 +1,13 @@
 # SOME DESCRIPTIVE TITLE.
 # Copyright (C) 2024, suhayl
-# This file is distributed under the same license as the freenove-docs
+# This file is distributed under the same license as the keyestudio-docs
 # package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
 #
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: freenove-docs \n"
+"Project-Id-Version: keyestudio-docs \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-10-11 16:15+0800\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"

@@ -47,7 +47,7 @@ Robotics kits
 
    * - .. centered:: /
      - .. centered:: /
-     - 开发中，敬请期待...
+     - Under development. Stay tuned...
      - .. centered:: /
 
 .. |KS4034F| image:: ../_static/products/micro_bit/KS4034F.png
@@ -79,7 +79,7 @@ Boards
 
    * - .. centered:: /
      - .. centered:: /
-     - 开发中，敬请期待...
+     - Under development. Stay tuned...
      - .. centered:: /
       
 ..    * -  .. centered:: |FNK0070|

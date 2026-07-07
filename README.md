@@ -1,6 +1,6 @@
 # Freenove Tutorial Online
 
-<img src="extra\freenove-logo.jpg" alt="freenove-logo" width='100%' align="left"/>
+<img src="extra\freenove-logo.png" alt="freenove-logo" width='100%' align="left"/>
 
 
 
@@ -12,7 +12,7 @@ Online Tutorial URL：[tutorial](https://docs.freenove.com/en/latest/)
 
 ## <img src="extra\text.png" alt="text" width='5%' align="left"/> **Materials Download**
 
-Tutorial Materials Download URL：[download](https://docs.freenove.com/en/latest/about-freenove/tutorial.html)
+Tutorial Materials Download URL：[download](https://docs.freenove.com/en/latest/about-keyestudio/tutorial.html)
 
 
 
@@ -28,6 +28,6 @@ In general, we will reply to you within one working day.
 
 
 
-## <img src="extra\freenove.png" alt="freenove" width='5%' align="left"/>**Freenove Official Website**
+## <img src="extra\freenove.png" alt="freenove" width='5%' align="left"/>**Keyestudio Official Website**
 
-Freenove Official Website URL: [Freenove](https://freenove.com/)
+Freenove Official Website URL: [Keyestudio](https://keyestudio.com/)

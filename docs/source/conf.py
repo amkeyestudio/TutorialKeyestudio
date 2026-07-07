@@ -13,9 +13,9 @@ sys.path.insert(0, pathlib.Path(__file__).parents[2].resolve().as_posix())
 # -- Project information -----------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
-project = 'freenove-docs'
-copyright = '2016-2025, Freenove'
-author = 'Freenove'
+project = 'keyestudio-docs'
+copyright = '2016-2025, Keyestudio'
+author = 'Keyestudio'
 release = 'v1.0.0'
 version = 'v1.0.0'
 

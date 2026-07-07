@@ -3,4 +3,4 @@
 By SKU
 ################################################################
 
-.. include:: ../about-freenove/tutorial.rst
+.. include:: ../about-keyestudio/tutorial.rst

@@ -40,10 +40,10 @@ Click on the link below to obtain your product tutorial.
    :titlesonly:
    :caption: About Keyestudio
 
-   about-freenove/tutorial.rst
-   about-freenove/support.rst
-   about-freenove/app.rst
-   about-freenove/contact.rst
-   about-freenove/about.rst
+   about-keyestudio/tutorial.rst
+   about-keyestudio/support.rst
+   about-keyestudio/app.rst
+   about-keyestudio/contact.rst
+   about-keyestudio/about.rst
    
    

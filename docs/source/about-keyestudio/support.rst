@@ -23,7 +23,7 @@ Support
         
         | :large:`Download digital materials for Keyestudio products.`
 
-        | :ref:`Tutorial list page <about-freenove/tutorial:tutorial>`
+        | :ref:`Tutorial list page <about-keyestudio/tutorial:tutorial>`
         
         | :large:`Please feel free to contact us if you need any help.`
 

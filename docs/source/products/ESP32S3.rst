@@ -18,7 +18,7 @@ Starter kits
 
    * - .. centered:: /
      - .. centered:: /
-     - 开发中，敬请期待...
+     - Under development. Stay tuned...
      - .. centered:: /
 
 ..    * -  .. centered:: |FNK0082|
@@ -48,7 +48,7 @@ Boards
 
    * - .. centered:: /
      - .. centered:: /
-     - 开发中，敬请期待...
+     - Under development. Stay tuned...
      - .. centered:: /
       
 ..    * -  .. centered:: |FNK0085B|

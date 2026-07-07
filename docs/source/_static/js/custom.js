@@ -102,27 +102,27 @@ let navBarHtml =
         </li>
         <li>
             <div class="navDropDown">
-                <a href="https://adoc.keyestudio.com/en/latest/about-freenove/tutorial.html" target="_blank" class="dropBtn">Tutorial</a>
+                <a href="https://adoc.keyestudio.com/en/latest/about-keyestudio/tutorial.html" target="_blank" class="dropBtn">Tutorial</a>
             </div>
         </li>
         <li>
             <div class="navDropDown">
-                <a href="https://adoc.keyestudio.com/en/latest/about-freenove/support.html" target="_blank" class="dropBtn">Support</a>
+                <a href="https://adoc.keyestudio.com/en/latest/about-keyestudio/support.html" target="_blank" class="dropBtn">Support</a>
             </div>
         </li>
         <li>
             <div class="navDropDown">
-                <a href="https://adoc.keyestudio.com/en/latest/about-freenove/app.html" target="_blank" class="dropBtn">App</a>
+                <a href="https://adoc.keyestudio.com/en/latest/about-keyestudio/app.html" target="_blank" class="dropBtn">App</a>
             </div>
         </li>
         <li>
             <div class="navDropDown">
-                <a href="https://adoc.keyestudio.com/en/latest/about-freenove/contact.html" target="_blank" class="dropBtn">Contact</a>
+                <a href="https://adoc.keyestudio.com/en/latest/about-keyestudio/contact.html" target="_blank" class="dropBtn">Contact</a>
             </div>
         </li>
         <li>
             <div class="navDropDown">
-                <a href="https://adoc.keyestudio.com/en/latest/about-freenove/about.html" target="_blank" class="dropBtn">About</a>
+                <a href="https://adoc.keyestudio.com/en/latest/about-keyestudio/about.html" target="_blank" class="dropBtn">About</a>
             </div>
         </li>
         
@@ -267,7 +267,7 @@ document.addEventListener('DOMContentLoaded', function() {
                 <p style="margin-top: 5px; margin-bottom: 15px;">
                     This online document has just been launched and is currently being improved.<br>
                     If you find any mistake, please verify against the downloaded version. Your feedback is welcome.<br>
-                    <a href="https://adoc.keyestudio.com/en/latest/about-freenove/support.html" target="_blank" rel="noopener noreferrer">Click to contact technical support.</a>
+                    <a href="https://adoc.keyestudio.com/en/latest/about-keyestudio/support.html" target="_blank" rel="noopener noreferrer">Click to contact technical support.</a>
                 </p>
                 <strong style="font-size: 20px;">How to translate:</strong>
                 <p style="margin-top: 5px; margin-bottom: 10px;">
@@ -275,7 +275,7 @@ document.addEventListener('DOMContentLoaded', function() {
                     Please note that sometimes the translation may not be accurate.<br>
                     Should you find it not understantable,  please refer to the original text or contact our support.<br>
                     You can find the translation button near the address bar or by right-clicking the mouse.<br>
-                    <a href="https://adoc.keyestudio.com/en/latest/about-freenove/support.html" target="_blank" rel="noopener noreferrer">Click to view the detailed tutorial.</a>
+                    <a href="https://adoc.keyestudio.com/en/latest/about-keyestudio/support.html" target="_blank" rel="noopener noreferrer">Click to view the detailed tutorial.</a>
                 </p>
             </div>
             <div class="fnk-key-hint">
@@ -386,7 +386,7 @@ function createPageContent() {
     // A data-driven approach to define buttons. Makes adding/removing buttons clean and easy.
     const controlsData = [
         { href: "https://adoc.keyestudio.com", target: "_blank", className: "language-btn", tooltip: "GitHub" },
-        { href: "https://adoc.keyestudio.com/en/latest/about-freenove/support.html", target: "_blank", className: "support-btn", tooltip: "support" },
+        { href: "https://adoc.keyestudio.com/en/latest/about-keyestudio/support.html", target: "_blank", className: "support-btn", tooltip: "support" },
         { href: "https://keyestudio.com/", target: "_blank", className: "website-btn", tooltip: "Freenove Official Website" },
         { href: "https://www.baidu.com/", target: "_blank", className: "youtube", icon: "fab fa-youtube", tooltip: "YouTube" },
     ];

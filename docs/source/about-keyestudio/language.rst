@@ -9,21 +9,21 @@ Here, we'll show you how to translate a web page in **Google Chrome**, **Mozilla
 Table of Contents
 *************************************
 
-* :ref:`Translate a Web Page in Google Chrome <about-freenove/language:translate a web page in google chrome>`
+* :ref:`Translate a Web Page in Google Chrome <about-keyestudio/language:translate a web page in google chrome>`
  
-  * :ref:`Translate Part of a Web Page in Chrome <about-freenove/language:translate part of a web page in chrome>`
+  * :ref:`Translate Part of a Web Page in Chrome <about-keyestudio/language:translate part of a web page in chrome>`
 
-* :ref:`Translate a Web Page in Firefox <about-freenove/language:translate a web page in firefox>`
+* :ref:`Translate a Web Page in Firefox <about-keyestudio/language:translate a web page in firefox>`
 
-* :ref:`Translate a Web Page in Microsoft Edge <about-freenove/language:translate a web page in microsoft edge>`
+* :ref:`Translate a Web Page in Microsoft Edge <about-keyestudio/language:translate a web page in microsoft edge>`
 
-  * :ref:`Translate Part of a Web Page in Edge <about-freenove/language:translate part of a web page in edge>`
+  * :ref:`Translate Part of a Web Page in Edge <about-keyestudio/language:translate part of a web page in edge>`
 
-* :ref:`Translate a Web Page in Opera <about-freenove/language:translate a web page in opera>`
+* :ref:`Translate a Web Page in Opera <about-keyestudio/language:translate a web page in opera>`
 
-* :ref:`Translate a Web Page in Safari <about-freenove/language:translate a web page in safari>`
+* :ref:`Translate a Web Page in Safari <about-keyestudio/language:translate a web page in safari>`
 
-  * :ref:`Translate Part of a Web Page in Safari <about-freenove/language:translate part of a web page in safari>`
+  * :ref:`Translate Part of a Web Page in Safari <about-keyestudio/language:translate part of a web page in safari>`
 
 Translate a Web Page in Google Chrome
 *****************************************
