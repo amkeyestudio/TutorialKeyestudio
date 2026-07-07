@@ -96,8 +96,18 @@ let navBarHtml =
             </div>
         </li>
         <li>
-            <div class="navDropDown">
-                <a href="https://www.keyestudio.com/"  target="_blank" class="dropBtn">Store</a>
+            <div class="navDropDown has-dropdown">
+                <a href="#" class="dropBtn">Store</a>
+                <div class="dropDownContent">
+                    <a href="https://www.amazon.com/keyestudio" target="_blank" rel="noopener noreferrer">US Amazon</a>
+                    <a href="https://www.amazon.ca/keyestudio" target="_blank" rel="noopener noreferrer">CA Amazon</a>
+                    <a href="https://www.amazon.co.jp/keyestudio" target="_blank" rel="noopener noreferrer">JP Amazon</a>
+                    <a href="https://www.amazon.co.uk/keyestudio" target="_blank" rel="noopener noreferrer">UK Amazon</a>
+                    <a href="https://www.amazon.de/keyestudio" target="_blank" rel="noopener noreferrer">DE Amazon</a>
+                    <a href="https://www.amazon.fr/keyestudio" target="_blank" rel="noopener noreferrer">FR Amazon</a>
+                    <a href="https://www.amazon.it/keyestudio" target="_blank" rel="noopener noreferrer">IT Amazon</a>
+                    <a href="https://www.amazon.es/keyestudio" target="_blank" rel="noopener noreferrer">ES Amazon</a>
+                </div>
             </div>
         </li>
         <li>
@@ -388,7 +398,7 @@ function createPageContent() {
         { href: "https://adoc.keyestudio.com", target: "_blank", className: "language-btn", tooltip: "GitHub" },
         { href: "https://adoc.keyestudio.com/en/latest/about-keyestudio/support.html", target: "_blank", className: "support-btn", tooltip: "support" },
         { href: "https://keyestudio.com/", target: "_blank", className: "website-btn", tooltip: "Freenove Official Website" },
-        { href: "https://www.baidu.com/", target: "_blank", className: "youtube", icon: "fab fa-youtube", tooltip: "YouTube" },
+        { href: "https://video.keyestudio.com/", target: "_blank", className: "youtube", icon: "fab fa-youtube", tooltip: "YouTube" },
     ];
 
     // Loop through the data to build each button.
