@@ -11,7 +11,7 @@
    * -  Image
      -  SKU
      -  Name
-     -  Purchase
+     -  Online
 
    * - .. centered:: /
      - .. centered:: /
@@ -31,4 +31,4 @@
 ..    :class: purchase-icon
 ..    :width: 30px
 ..    :target: https://store.freenove.com/products/fnk0079
-..    :alt: Purchase
+..    :alt: Online

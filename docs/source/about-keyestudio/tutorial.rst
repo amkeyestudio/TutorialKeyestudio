@@ -21,19 +21,22 @@ You can also ask from us via email:**service@keyestudio.com**
 
     * - .. centered:: SKU	
       - .. centered:: Product Name	
-      - .. centered:: View on GitHub	
       - .. centered:: Download ZIP
       - .. centered:: Online
 
     * - .. centered:: MB0110
       - **Micro:bit Main Board+USB Cable+Battery Holder with Batteries**
-      - .. centered:: `View <https://docs.keyestudio.com/projects/MB0110/en/latest/>`__	
-      - .. centered:: `Download <https://docs.keyestudio.com/projects/MB0110/en/latest/>`__
+      - 
       - .. centered:: `Online <https://docs.keyestudio.com/projects/MB0110/en/latest/>`__
 
     * - .. centered:: KS4034F
       - **Keyestudio micro bit 4WD Mecanum Robot Car Kit V2.0**
-      - .. centered:: `View <https://adoc.keyestudio.com/projects/KS4034F/en/latest/>`__	
-      - .. centered:: `Download <https://adoc.keyestudio.com/projects/KS4034F/en/latest/>`__
+      - 
       - .. centered:: `Online <https://adoc.keyestudio.com/projects/KS4034F/en/latest/>`__
+
+    * - .. centered:: FKS0007
+      - **Keyestudio Microbit Smart Robot Car V2.0**
+      - .. centered:: `Download <https://github.com/amkeyestudio/FKS0007_PDF_Tutorial/archive/refs/heads/main.zip>`__
+      - .. centered:: `Online <https://adoc.keyestudio.com/projects/FKS0007/en/latest/>`__
+
 

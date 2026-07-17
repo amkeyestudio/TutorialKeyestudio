@@ -15,7 +15,7 @@ Starter kits
    * -  Image
      -  SKU
      -  Name
-     -  Purchase
+     -  Online
 
    * - .. centered:: /
      - .. centered:: /
@@ -45,7 +45,7 @@ Boards
    * -  Image
      -  SKU
      -  Name
-     -  Purchase
+     -  Online
 
    * - .. centered:: /
      - .. centered:: /
@@ -64,10 +64,10 @@ Boards
 ..    :class: purchase-icon
 ..    :width: 30px
 ..    :target: https://store.freenove.com/products/fnk0073
-..    :alt: Purchase
+..    :alt: Online
 
 .. .. |Purchase76| image:: ../_static/images/cart.png
 ..    :class: purchase-icon
 ..    :width: 30px
 ..    :target: https://store.freenove.com/products/fnk0076
-..    :alt: Purchase
+..    :alt: Online

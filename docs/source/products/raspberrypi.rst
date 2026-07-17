@@ -14,7 +14,7 @@ Starter kits
    * -  Image
      -  SKU
      -  Name
-     -  Purchase
+     -  Online
 
    * - .. centered:: /
      - .. centered:: /
@@ -44,7 +44,7 @@ Robotics kits
    * -  Image
      -  SKU
      -  Name
-     -  Purchase
+     -  Online
 
    * - .. centered:: /
      - .. centered:: /
@@ -74,7 +74,7 @@ Accessories
    * -  Image
      -  SKU
      -  Name
-     -  Purchase
+     -  Online
 
    * - .. centered:: /
      - .. centered:: /
@@ -95,17 +95,17 @@ Accessories
 ..    :class: purchase-icon
 ..    :width: 30px
 ..    :target: https://store.freenove.com/products/fnk0019
-..    :alt: Purchase  
+..    :alt: Online  
 
 .. .. |Purchase21| image:: ../_static/images/cart.png
 ..    :class: purchase-icon
 ..    :width: 30px
 ..    :target: https://store.freenove.com/products/fnk0021
-..    :alt: Purchase
+..    :alt: Online
 
 .. .. |Purchase55| image:: ../_static/images/cart.png
 ..    :class: purchase-icon
 ..    :width: 30px
 ..    :target: https://store.freenove.com/products/fnk0055
-..    :alt: Purchase
+..    :alt: Online
 

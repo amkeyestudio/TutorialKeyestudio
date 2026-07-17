@@ -13,7 +13,7 @@ Starter kits
    * -  Image
      -  SKU
      -  Name
-     -  Purchase
+     -  Online
 
    * - .. centered:: /
      - .. centered:: /
@@ -42,7 +42,7 @@ Robotics kits
    * -  Image
      -  SKU
      -  Name
-     -  Purchase
+     -  Online
 
    * - .. centered:: /
      - .. centered:: /
@@ -71,7 +71,7 @@ Boards
    * -  Image
      -  SKU
      -  Name
-     -  Purchase
+     -  Online
 
    * - .. centered:: /
      - .. centered:: /
@@ -99,7 +99,7 @@ Accessories
    * -  Image
      -  SKU
      -  Name
-     -  Purchase
+     -  Online
 
    * - .. centered:: /
      - .. centered:: /
@@ -118,22 +118,22 @@ Accessories
 ..    :class: purchase-icon
 ..    :width: 30px
 ..    :target: https://store.freenove.com/products/fnk0058
-..    :alt: Purchase  
+..    :alt: Online  
 
 .. .. |Purchase33| image:: ../_static/images/cart.png
 ..    :class: purchase-icon
 ..    :width: 30px
 ..    :target: https://store.freenove.com/products/fnk0033
-..    :alt: Purchase
+..    :alt: Online
 
 .. .. |Purchase65| image:: ../_static/images/cart.png
 ..    :class: purchase-icon
 ..    :width: 30px
 ..    :target: https://store.freenove.com/products/fnk0065
-..    :alt: Purchase
+..    :alt: Online
    
 .. .. |Purchase81| image:: ../_static/images/cart.png
 ..    :class: purchase-icon
 ..    :width: 30px
 ..    :target: https://store.freenove.com/products/fnk0081
-..    :alt: Purchase
+..    :alt: Online

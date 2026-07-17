@@ -14,10 +14,10 @@ Starter kits
    * -  Image
      -  SKU
      -  Name
-     -  Purchase
+     -  Online
 
    * -  .. centered:: |MB0110A|
-     -  .. centered:: `MB0110 <https://docs.keyestudio.com/projects/MB0110/en/latest/>`_
+     -  .. centered:: `MB0110`
      -  **Micro:bit Main Board+USB Cable+Battery Holder with Batteries**
      -  |PurchaseMB0110|
 
@@ -37,13 +37,17 @@ Robotics kits
    * -  Image
      -  SKU
      -  Name
-     -  Purchase
+     -  Online
 
    * - .. centered:: |KS4034F|
-     -  .. centered:: `KS4034F <https://adoc.keyestudio.com/projects/KS4034F/en/latest/>`_
+     -  .. centered:: `KS4034F`
      -  **Keyestudio micro bit 4WD Mecanum Robot Car Kit V2.0**
      -  |PurchaseKS4034F|
 
+   * - .. centered:: |FKS0007|
+     -  .. centered:: `FKS0007`
+     -  **Keyestudio Microbit Smart Robot Car V2.0**
+     -  |PurchaseFKS0007|
 
    * - .. centered:: /
      - .. centered:: /
@@ -51,6 +55,9 @@ Robotics kits
      - .. centered:: /
 
 .. |KS4034F| image:: ../_static/products/micro_bit/KS4034F.png
+    :class: product-image
+
+.. |FKS0007| image:: ../_static/products/micro_bit/FKS0007.png
     :class: product-image
 
 
@@ -75,7 +82,7 @@ Boards
    * -  Image
      -  SKU
      -  Name
-     -  Purchase
+     -  Online
 
    * - .. centered:: /
      - .. centered:: /
@@ -94,21 +101,27 @@ Boards
 ..    :class: purchase-icon
 ..    :width: 30px
 ..    :target: https://store.freenove.com/products/fnk0037
-..    :alt: Purchase
+..    :alt: Online Tutorial
 .. .. |Purchase70| image:: ../_static/images/cart.png
 ..    :class: purchase-icon
 ..    :width: 30px
 ..    :target: https://store.freenove.com/products/fnk0070
-..    :alt: Purchase
+..    :alt: Online
 
-.. |PurchaseMB0110| image:: ../_static/images/cart.png
+.. |PurchaseMB0110| image:: ../_static/images/book.png
    :class: purchase-icon
    :width: 30px
-   :target: https://www.amazon.co.jp/-/en/KEYESTUDIO-MICROBIT-V2-2-KIT-BEGINNERS/dp/B0BNKTGGB7/ref=sr_1_5?crid=L0TZN0WNIJXR&dib=eyJ2IjoiMSJ9.t6-UMOZbnkD5W8zg5oO6uSB0kymhrv5rF6fjlltbkPDY1qdVUyqpZNv9hKO13W013VDdc3bADBlcIaXDE0Haf1EqFOpNkB9fboiCaDsT6MFok8rE9yygyQ_-uIHeWlorv3gl9uuq-LEhgXKyv-3ZOoDE4GHxvBoXFN6n9jyMQQhnlnwoUdLki9ZVvEpGdp_AanSbumL2djyNSSIDT5tsCS0reuoW5XtgXlrxYw7SaHUpnXA62j8WYVGBYo5b0DhX2VYZFq4A87KK53Jwu1pBqFsjXYSMNbKZaG_RJpmJ0zo.VpOwRyau1h57Rj1nMbA64RvotQ72RwlNSmm9tyS81ro&dib_tag=se&keywords=keyestudio&qid=1778896881&sprefix=keyestu%27di%27o%2Caps%2C262&sr=8-5
-   :alt: Purchase
+   :target: https://docs.keyestudio.com/projects/MB0110/en/latest/
+   :alt: Online
 
-.. |PurchaseKS4034F| image:: ../_static/images/cart.png
+.. |PurchaseKS4034F| image:: ../_static/images/book.png
    :class: purchase-icon
    :width: 30px
-   :target: https://www.amazon.co.jp/-/en/KEYESTUDIO-Micro-Robot-Mekanam-Adults/dp/B0D4QGB9NW/ref=sr_1_25?crid=L0TZN0WNIJXR&dib=eyJ2IjoiMSJ9.t6-UMOZbnkD5W8zg5oO6uSB0kymhrv5rF6fjlltbkPDY1qdVUyqpZNv9hKO13W013VDdc3bADBlcIaXDE0Haf1EqFOpNkB9fboiCaDsT6MFok8rE9yygyQ_-uIHeWlorv3gl9uuq-LEhgXKyv-3ZOoDE4GHxvBoXFN6n9jyMQQhnlnwoUdLki9ZVvEpGdp_AanSbumL2djyNSSIDT5tsCS0reuoW5XtgXlrxYw7SaHUpnXA62j8WYVGBYo5b0DhX2VYZFq4A87KK53Jwu1pBqFsjXYSMNbKZaG_RJpmJ0zo.VpOwRyau1h57Rj1nMbA64RvotQ72RwlNSmm9tyS81ro&dib_tag=se&keywords=keyestudio&qid=1778896881&sprefix=keyestu%27di%27o%2Caps%2C262&sr=8-25
-   :alt: Purchase
+   :target: https://adoc.keyestudio.com/projects/KS4034F/en/latest/
+   :alt: Online
+
+.. |PurchaseFKS0007| image:: ../_static/images/book.png
+   :class: purchase-icon
+   :width: 30px
+   :target: https://adoc.keyestudio.com/projects/FKS0007/en/latest/
+   :alt: Online
