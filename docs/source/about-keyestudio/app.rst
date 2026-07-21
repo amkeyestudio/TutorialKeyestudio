@@ -2,6 +2,33 @@
 App
 ###########
 
+Click the SKU in the table to go to the app download tutorial for the corresponding kit.
+
+.. list-table:: 
+   :header-rows: 1 
+   :width: 90%
+   :align: center
+   :widths: 6 5 12
+   :class: product-table
+   
+   * -  SKU
+     -  APP Name
+     -  APP Logo
+
+   * - .. centered:: `KS4034 <https://adoc.keyestudio.com/projects/KS4034F/en/latest/docs/3.Makecode/Makecode.html#project-20-bluetooth-multi-purpose-smart-car>`__
+     - .. centered:: Mecanum Robot
+     - .. centered:: |KS4034Logo|
+
+   * - .. centered:: `FKS0007 <https://adoc.keyestudio.com/projects/FKS0007/en/latest/docs/MakeCode/3.12%20Install%20Bluetooth%20APP%20and%20Read%20Bluetooth%20Data.html#install-bluetooth-app-and-read-bluetooth-data>`__
+     - .. centered:: Micro bit mini car
+     - .. centered:: |FKS0007Logo|
+
+.. |KS4034Logo| image:: ../_static/products/App/KS4034Logo.png
+    :class: product-image
+
+.. |FKS0007Logo| image:: ../_static/products/App/FKS0007Logo.png
+    :class: product-image
+
 .. .. container:: centered
                 
 ..     .. admonition:: :x-large:`For Android`
