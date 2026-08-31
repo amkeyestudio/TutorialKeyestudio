@@ -39,4 +39,9 @@ You can also ask from us via email:**service@keyestudio.com**
       - .. centered:: `Download <https://github.com/amkeyestudio/FKS0007_PDF_Tutorial/archive/refs/heads/main.zip>`__
       - .. centered:: `Online <https://adoc.keyestudio.com/projects/FKS0007/en/latest/>`__
 
+    * - .. centered:: KT0382
+      - **Keyestudio TinyVision**
+      - 
+      - .. centered:: `Online <https://adoc.keyestudio.com/projects/KT0382/en/latest/>`__
+
 
