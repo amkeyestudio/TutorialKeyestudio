@@ -44,4 +44,9 @@ You can also ask from us via email:**service@keyestudio.com**
       - 
       - .. centered:: `Online <https://adoc.keyestudio.com/projects/KT0382/en/latest/>`__
 
+    * - .. centered:: FKS0008
+      - **Keyestudio ESP32-S3 4WD Car**
+      - 
+      - .. centered:: `Online <https://adoc.keyestudio.com/projects/FKS0008/en/latest/>`__
+
 
