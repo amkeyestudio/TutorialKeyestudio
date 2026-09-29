@@ -16,10 +16,18 @@ Starter kits
      -  Name
      -  Online
 
+   * - .. centered:: |FKS0008|
+     - .. centered:: `FKS0008`
+     - **Keyestudio ESP32-S3 4WD Car**
+     - |PurchaseFKS0008|
+
    * - .. centered:: /
      - .. centered:: /
      - Under development. Stay tuned...
      - .. centered:: /
+
+.. |FKS0008| image:: ../_static/products/ESP32S3/FKS0008.png   
+    :class: product-image
 
 ..    * -  .. centered:: |FNK0082|
 ..      -  .. centered:: :Freenove:`FNK0082 <fnk0082>`
@@ -46,18 +54,10 @@ Boards
      -  Name
      -  Online
 
-   * - .. centered:: |FKS0008|
-     - .. centered:: `FKS0008`
-     - **Keyestudio ESP32-S3 4WD Car **
-     - |PurchaseFKS0008|
-
    * - .. centered:: /
      - .. centered:: /
      - Under development. Stay tuned...
      - .. centered:: /
-
-.. |FKS0008| image:: ../_static/products/ESP32S3/FKS0008.png   
-    :class: product-image
       
       
 ..    * -  .. centered:: |FNK0085B|
